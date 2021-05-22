@@ -1,0 +1,34 @@
+#title{
+    background-color: #7575d8;
+    text-align:center;
+    font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
+}
+#bodytext1{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    width: 50%;
+    
+}
+body{
+     background-color:rgb(145,145,224)
+}
+.container{
+    width: 50%;
+    margin:0 auto;
+}
+nav ul{
+list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 50px;
+}
+nav a {
+    color:rgb(25, 25, 95);
+    text-transform: uppercase;
+    text-decoration: none ;
+}
+nav a:hover{
+    color: rgb(96, 31, 156);
+}
